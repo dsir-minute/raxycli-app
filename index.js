@@ -23,7 +23,7 @@ const data = {
 };
 
 const iotajs = new IOTA({
-  host: 'http://localhost',
+  host: 'http://iotanode.party',
   port: 14265
 });
 
